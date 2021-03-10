@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TipCalculator-Ballou</string>
+    <string name="tip1">3%</string>
+    <string name="tip2">5%</string>
+    <string name="tip3">10%</string>
+    <string name="tip4">20%</string>
+    <string name="tip5">Custom Tip</string>
 </resources>
